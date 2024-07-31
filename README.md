@@ -1,8 +1,18 @@
-***👋 Olá, sou JOAO PEDRO CECILIO! 👋***
+***👋 Olá, meu nome é JOAO PEDRO CECILIO, seja bem vindo(a) ao meu perfil! 👋***
 - *Essa é a minha conta de estudante!* 👨‍🎓📚
 - *Estou estudando na Alura!* 👩‍💻
 - *Estou me desenvolvendo na linguagem JavaScript!* 👀💻
 - *Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos!* ✅💯
+
+***Você pode entrar em contato comigo*** 📫
+
+![00001109078869sp@al.educacao.sp.gov.br](link)
+
+@00001109078869sp
+
+
+
+  
 
 
 <!---
