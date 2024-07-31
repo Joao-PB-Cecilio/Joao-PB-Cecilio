@@ -1,8 +1,8 @@
 ***👋 Hello, I am JOAO PEDRO CECILIO! 👋***
 - topic 1:
-*This is my Student Account👨‍🎓!*
+*This is my Student Account!* 👨‍🎓
 - topic 2:
-*Here lies all my school repositories👩‍💻!*
+*Here lies all my school repositories!* 👩‍💻
 
 
 <!---
