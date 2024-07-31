@@ -1,8 +1,8 @@
-***👋 Hello, I am JOAO PEDRO CECILIO! 👋***
-- topic 1:
-*This is my Student Account!* 👨‍🎓
-- topic 2:
-*Here lies all my school repositories!* 👩‍💻
+***👋 Olá, sou JOAO PEDRO CECILIO! 👋***
+- *Essa é a minha conta de estudante!* 👨‍🎓📚
+- *Estou estudando na Alura!* 👩‍💻
+- *Estou me desenvolvendo na linguagem JavaScript!* 👀💻
+- *Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos!* ✅💯
 
 
 <!---
