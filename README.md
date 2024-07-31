@@ -1,4 +1,4 @@
-***👋 Olá, meu nome é JOAO PEDRO CECILIO, seja bem vindo(a) ao meu perfil! 👋***
+***👋 Olá, meu nome é JOAO PEDRO B CECILIO, seja bem vindo(a) ao meu perfil! 👋***
 - *Essa é a minha conta de estudante!* 👨‍🎓📚
 - *Estou estudando na Alura!* 👩‍💻
 - *Estou me desenvolvendo na linguagem JavaScript!* 👀💻
