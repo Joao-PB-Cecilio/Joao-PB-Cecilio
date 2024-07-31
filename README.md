@@ -4,13 +4,15 @@
 - *Estou me desenvolvendo na linguagem JavaScript!* 👀💻
 - *Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos!* ✅💯
 
+![](https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif)
+
 ***Você pode entrar em contato comigo*** 📫
 
 ![00001109078869sp@al.educacao.sp.gov.br](link)
 
 @00001109078869sp
 
-![](https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif)
+
 
 
 
